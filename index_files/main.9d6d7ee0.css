@@ -98,7 +98,7 @@
 }
 @media (max-width: 657px) {
     .background_treasury {
-        display: none;
+        display: block;
     }
 }
 @media (min-width: 658px) {
@@ -152,7 +152,7 @@
 }
 @media (max-width: 657px) {
     .background_help {
-        display: none;
+        display: block;
     }
 }
 .background_simulation {
@@ -280,7 +280,7 @@
     .background_banking {
         background-image: url(/static/media/wave_background_mobile.c4af8d63a644a7620a69.png);
         background-size: 100% auto;
-        display: none;
+        display: block;
         top: 0;
     }
 }
@@ -548,7 +548,7 @@
 }
 @media (max-width: 1368px) {
     .navbar_component .navbar_options {
-        display: none;
+        display: block;
         opacity: 0;
         padding: 0 32px;
         width: 100%;
@@ -614,7 +614,7 @@
 }
 .navbar_component .navbar_options .nav_link .category_routes {
     border-radius: 8px;
-    display: none;
+    display: block;
     left: -18%;
     opacity: 0;
     position: absolute;
@@ -683,7 +683,7 @@
     }
     .navbar_component .navbar_options .nav_link .category_routes:before {
         content: "";
-        display: none;
+        display: block;
     }
 }
 .navbar_component .navbar_options .nav_link .category_routes .nav_route {
@@ -2400,7 +2400,7 @@
 }
 @media (max-width: 657px) {
     .page_layout .header_wallet .content_inner_page .coti_viper_logo {
-        display: none;
+        display: block;
     }
     .page_layout .header_wallet .content_inner_page h2 {
         max-width: 240px;

@@ -378,6 +378,7 @@
     text-transform: uppercase;
     transition: all 0.1s ease-in;
     width: 100%;
+    
 }
 @media (max-width: 657px) {
     .button_component {
